@@ -16,7 +16,7 @@
   .main-header {
     display: flex;
     justify-content: space-between;
-    padding: 60px;
+    padding: 30px;
     background: #13293d;
     color: #fff;
   }
